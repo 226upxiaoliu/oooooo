@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">计算器1.0</string>
+    <string name="num1">数值1:</string>
+    <string name="num2">数值2:</string>
+    <string name="but1">计算求和</string>
+    <string name="but2">退出</string>
+    <string name="c">C</string>
+    <string name="x">X</string>
+    <string name="yu">%</string>
+    <string name="chu">/</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="jian">-</string>
+    <string name="jia">+</string>
+    <string name="zroe">0</string>
+    <string name="dot">.</string>
+    <string name="den">=</string>
+    <string name="chen">*</string>
+
+</resources>
